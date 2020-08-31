@@ -11,7 +11,8 @@
           parse.sh
           
           
-          (venv 환)
+          (venv 환경권장)
           parse.py WAF.py
           
           
+ 
