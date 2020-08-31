@@ -11,6 +11,7 @@
           parse.sh
           
           
+          (venv 환)
           parse.py WAF.py
           
           
